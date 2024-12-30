@@ -112,7 +112,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Add JavaScript-based form validation for user input.  
      - **Reading:** [JavaScript Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)  
-     - **Video:** [Form Validation Tutorial](https://www.youtube.com/watch?v=OH6Z0dJ_Huk)  
+     - **Video:** [Form Validation Tutorial](https://www.youtube.com/watch?v=S3_SZqf2h8M)  
   2. Use CSS to improve the visual design and add responsive features.  
      - **Reading:** [CSS Responsive Design](https://www.w3schools.com/css/css_rwd_intro.asp)  
      - **Video:** [Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s)  
@@ -128,10 +128,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Integrate jsPDF or similar library for PDF downloads.  
      - **Reading:** [jsPDF Documentation](https://github.com/parallax/jsPDF)  
-     - **Video:** [jsPDF Tutorial](https://www.youtube.com/watch?v=PHn73lJ8fOQ)  
+     - **Video:** [jsPDF Tutorial](https://www.youtube.com/watch?v=6toXMFyQdB0&list=PLc1g3vwxhg1WVhYrKP0GJlZIlSn9loyXD)  
   2. Test the application for bugs and make adjustments.  
-     - **Reading:** [JavaScript Debugging](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)  
-     - **Video:** [Debugging JavaScript](https://www.youtube.com/watch?v=s4g1XFU8Gto)  
+     - **Reading:** [JavaScript Debugging](https://www.w3schools.com/js/js_debugging.asp)  
+     - **Video:** [Debugging JavaScript](https://www.youtube.com/watch?v=_QtUGdaCb1c)  
 
 - **Deliverables:**  
   - Fully functional CV Builder with PDF download capability.
